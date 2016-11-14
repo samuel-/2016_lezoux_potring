@@ -14,7 +14,6 @@ Documentation du prototype : http://www.museomix.org/prototypes/potring/
 
 1. Ouvrir processing
 2. Placer les vidéos dans le dossier data.
-	Une vidéo d'exemple est disponible.
 	Les noms des vidéos sont video_T_ObjetX_ObjetY.mov
 	avec T = 0, 1 ou 2, et X < Y. Si 1 ou 2, suffixer le nom de l'objet gagnant avec G.
 	Avec des noms différents, il faut modifier le code.
